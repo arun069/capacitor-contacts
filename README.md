@@ -5,7 +5,7 @@ read, write, delete contacts
 ## Install
 
 ```bash
-npm install capacitor-contacts
+npm install a-capacitor-contacts
 npx cap sync
 ```
 
